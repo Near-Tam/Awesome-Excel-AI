@@ -23,8 +23,8 @@ Watch Mica handle messy TXT imports and generate complex statistical formulas lo
 ## 📥 Download Resources
 Want to test this workflow? Download the raw sample data and the resulting Excel analysis:
 
-* 👉 **[Download: mica-ai-raw-experimental-data.txt](../../Templates/mica-ai-raw-experimental-data.txt)**
-* 👉 **[Download: mica-ai-analysis-result.xlsx](../../Templates/mica-ai-analysis-result.xlsx)**
+* 👉 **[Download: mica-ai-raw-experimental-data.txt](../Templates/mica-ai-raw-experimental-data.txt)**
+* 👉 **[Download: mica-ai-analysis-result.xlsx](../Templates/mica-ai-analysis-result.xlsx)**
 
 ---
 

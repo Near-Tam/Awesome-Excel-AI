@@ -23,7 +23,7 @@ See how Mica traces referenced ranges to identify that `Range!$A$2:$A$500` actua
 ## 📥 Download Sample Resource
 To practice decoding or see the type of complex structures Mica can handle, you can use this sample analysis file:
 
-👉 **[Download: mica-ai-market-analysis-sample.xlsx](../../Templates/mica-ai-market-analysis-sample.xlsx)**
+👉 **[Download: mica-ai-market-analysis-sample.xlsx](../Templates/mica-ai-market-analysis-sample.xlsx)**
 
 ---
 
