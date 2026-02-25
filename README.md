@@ -2,6 +2,9 @@
 
 Welcome to the official resource repository for **Mica AI**. This repo mirrors our **[Knowledge Hub](https://mica.mindlink.tools/blog/)**, providing open-source prompts, spreadsheet templates, and technical deep-dives.
 
+![Mica AI generates a complete student attendance system with summary sheets and calendar views from a single sentence](assets/mica-ai-generates-student-attendance-system.gif)
+*✨ One sentence. One complete attendance system. ✨*
+
 ## 📂 Knowledge Clusters
 
 ### 💼 [Solutions & Comparisons](https://mica.mindlink.tools/blog/solutions/)
